@@ -5233,3 +5233,452 @@ How to read a balance sheet
 
 On the liabilities side (for FY 2008), the short-term liabilities stand at Rs. 1,912 crores. It is to be noted that Infosys Technologies has listed its provisions as part of Current Liabilities. Hence, the figure of Rs. 2,279 crores relates to provisions related to current items. A very common provision created in respect of current liabilities is provision against bad and doubtful debts. The company usually anticipates a percentage of its receivables (debtors) defaulting, i.e., not paying their dues. So, a provision amounting to a speciﬁc percentage (which depends on the discretion of the company) is created to prepare the company for that eventuality. Such a provision is known as the Provision for Bad and Doubtful Debtors.
 ==========
+Jay Shetty - Think Like A Monk_ Train Your Mind For Peace And Purpose Every Day (2020, Simon & Schuster) - libgen.li (Jay Shetty)
+- Your Highlight on page 12 | Location 323-327 | Added on Sunday, December 17, 2023 12:21:42 PM
+
+First, on a daily basis I recommend you sit down to reflect on how the day went and what emotions you’re feeling. Second, once a month you can approximate the change that I found at the ashram by going someplace you’ve never been before to explore yourself in a different environment. This can be anything from visiting a park or library you’ve never been to before to taking a trip. Finally, get involved in something that’s meaningful to you—a hobby, a charity, a political cause. Another way to create space is to take stock of how we are filling the space that we have and whether those choices reflect our true values.
+==========
+Jay Shetty - Think Like A Monk_ Train Your Mind For Peace And Purpose Every Day (2020, Simon & Schuster) - libgen.li (Jay Shetty)
+- Your Highlight on page 14 | Location 358-359 | Added on Sunday, December 17, 2023 12:25:38 PM
+
+15 minutes scrolling social media (“Me time!”) 15 minutes of meditation (“No time!”)
+==========
+Jay Shetty - Think Like A Monk_ Train Your Mind For Peace And Purpose Every Day (2020, Simon & Schuster) - libgen.li (Jay Shetty)
+- Your Highlight on page 31 | Location 588-589 | Added on Wednesday, December 20, 2023 6:59:54 AM
+
+“[In a monastery], the only competition allowed is to outstrip each other in showing love and respect
+==========
+Jay Shetty - Think Like A Monk_ Train Your Mind For Peace And Purpose Every Day (2020, Simon & Schuster) - libgen.li (Jay Shetty)
+- Your Highlight on page 35 | Location 643-644 | Added on Wednesday, December 20, 2023 7:08:00 AM
+
+Judgment creates an illusion: that if you see well enough to judge, then you must be better, that if someone else is failing, then you must be moving forward. In fact, it is careful,
+==========
+Jay Shetty - Think Like A Monk_ Train Your Mind For Peace And Purpose Every Day (2020, Simon & Schuster) - libgen.li (Jay Shetty)
+- Your Highlight on page 35 | Location 643-645 | Added on Wednesday, December 20, 2023 7:08:05 AM
+
+Judgment creates an illusion: that if you see well enough to judge, then you must be better, that if someone else is failing, then you must be moving forward. In fact, it is careful, thoughtful observations that move us forward.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 36 | Location 382-389 | Added on Wednesday, March 6, 2024 5:41:00 PM
+
+A final note on the Marwaris and their ingrained Dhandho ways. Recently, I had dinner with a good Marwari friend of mine, and I asked him how the stereotypical Marwari approaches investing capital in a venture? He said, quite nonchalantly, that Marwari businesspeople, even with only a fifth-grade education, simply expect all their invested capital to be returned in the form of dividends in no more than three years. They expect that, after having gotten their money back, their principal investment continues to be worth at least what they invested in it. They expect these to be ultra low-risk bets. Now, folks, this is really good stuff— they don’t teach this at the Harvard Business School. If you simply used this Marwari formula before making any investments, let me assure you of two things: 1. You’d take a quick pass on most investments offered to you; and
+2. Starting with very little capital, after a few decades you’ll be very wealthy.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 51 | Location 544-547 | Added on Wednesday, March 6, 2024 5:56:07 PM
+
+And that’s the Dhandho framework. To summarize:  • Invest in existing businesses.
+• Invest in simple businesses.
+• Invest in distressed businesses in distressed industries.
+• Invest in businesses with durable moats.
+• Few bets, big bets, and infrequent bets.
+• Fixate on arbitrage.
+• Margin of safety—always.
+• Invest in low-risk, high-uncertainty businesses.
+• Invest in the copycats rather than the innovators.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 56 | Location 596-609 | Added on Thursday, March 7, 2024 12:44:43 PM
+
+I used a Texas Instruments BA-35 calculator to do these discounted cash flow (DCF) calculations. Alternately, you could use Excel. As Table 7.1 demonstrates, the gas station has an intrinsic value of about $775,000. We would be buying it for $500,000, so we’d be buying it for roughly two-thirds of its intrinsic value. If we did the DCF analysis on the 10 percent yielding low-risk investment, it looks like Table 7.2. Not surprisingly, the $500,000 invested in our low-risk alternative has a present value of exactly that—$500,000. Investing in the gas station is a better deal than putting the cash in a 10 percent yielding bond—assuming that the expected cash flows and sale price are all but assured. The stock market gives us the price at which thousands of businesses can be purchased. We also have the formula to figure out what these businesses are worth. It is simple. Table 7.1 Discounted Cash Flow (DCF) Analysis of the Gas Station Present Value ($) Year Free Cash Flow ($) of Future Cash Flow (10%)  2007 100,000 90,909
+2008 100,000 82,645
+2009 100,000 75,131
+2010 100,000 68,301
+2011 100,000 62,092
+2012 100,000 56,447
+2013 100,000 51,315
+2014 100,000 46,650
+2015 100,000 42,410
+2016 100,000 38,554
+2017 Sale Price 400,000 154,217 Table 7.2 Discounted Cash Flow (DCF) Analysis of the 10 Percent Yielding Low-Risk Alternative
+Present Value ($) Year Free Cash Flow ($) of Future Cash Flow  2007 50,000 45,454
+2008 50,000 41,322
+2009 50,000 37,566
+2010 50,000 34,151
+2011 50,000 31,046
+2012 50,000 28,224
+2013 50,000 25,658
+2014 50,000 23,325
+2015 50,000 21,205
+2016 50,000 17,277
+2017 Capital returned 500,000 192,772
+Total 500,000 When we see a huge gap between the price and intrinsic value of a given business—and that gap is in our favor—we can act and buy that business.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 63 | Location 670-672 | Added on Thursday, March 7, 2024 12:48:47 PM
+
+Buffett’s 1988 Letter to Shareholders of Berkshire Hathaway has a wonderful section on EMTs.5 I strongly recommend reading it. All the shareholders letters are archived on Berkshire Hathaway’s web site and they are a treasure trove of wisdom. About EMTs, Buffett commented:
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 65 | Location 691-720 | Added on Friday, March 8, 2024 8:44:18 PM
+
+How do we get a list of distressed businesses or industries? There are many sources, but here are six to begin with:  1. If you read the business headlines on a daily basis, you’ll find plenty of stories about publicly traded businesses. Many of these news clips reflect negative news about a certain business or industry. For example, Tyco’s stock collapsed when the Dennis Kozlowski scandal was front and center. Martha Stewart’s prison sentence clobbered that stock. More recently, Mr. Spitzer’s adventures with H & R Block have led to significant declines in its stock price. These were all headline stories. 2. Value Line publishes a weekly summary of the stocks that have lost the most value in the preceding 13 weeks. It is another terrific indicator of distress. This list of 40 stocks routinely shows price drops of 20 percent to 70 percent over that period. The ones with the largest drops are likely the most distressed. It also has a summary every week of the stocks with the lowest price-to-earnings ratios (P/Es), widest discount to book value, highest dividend yield, and so on. Not all these businesses are distressed, but if a business is trading at a P/E of 3, it is worth a closer look. 3. There is a publication called Portfolio Reports (www .portfolioreports.com) that is published monthly. It lists the 10 most recent stock purchases by 80 of the top value managers. It gleans this information from the various filings that institutional investors are required by law to make. Portfolio Reports lists the buying patterns of such luminaries as Seth Klarman of Baupost, Lou Simpson of GEICO, Marty Whitman of Third Avenue, Peter Cundill of the Cundill Group, Bruce Sherman of Private Capital Management, and Warren Buffett. These managers aren’t 100 percent focused on distressed situations, but they are focused on value. Distressed situations are a subset of value investing, so some of their investments fall into the distressed category. 4. If you’d like to avoid the subscription price tag for Portfolio Reports, then much of that data can be gleaned by looking directly at the public filings (e.g., SEC Form 13-F) that institutional investors have to make. These can be accessed on the EDGAR system (http:// access.edgar-online.com). Alternatively, www.nasdaq .com provides much of the data in condensed form. To get to the data, on the Nasdaq.com main page enter any one ticker symbol of a holding you think one of the value investing stars holds. I know Marty Whitman of Third Avenue has owned Tejon Ranch (TRC) for many years, so enter TRC and click on “InfoQuotes,” then click on “Holdings/Insiders,” then click on “Total Number of Holders.” Now click on “Third Avenue Management,” and you get a listing of virtually everything Third Avenue owns in U.S. stocks. You can do a Google search to get the name of the one ticker you need. For example, if I enter “Longleaf 13F” into the Google search field, I get links to many of its holdings. I can use any one ticker on Nasdaq.com to get to virtually all its U.S. holdings. 5. Take a look at Value Investors Club (VIC; www. valueinvestorsclub.com). It is a wonderful web site started and managed by Joel Greenblatt of Gotham Capital. Greenblatt has perhaps the best audited record of any unleveraged investor on the planet over the past 20 years—a compounded annualized return of 40 percent. We delve more into Greenblatt and his Dhandho approach later in the book. Value Investors Club has about 250 members—each of whom had to get approved for membership by presenting a good investment idea. These members are required to post at least two ideas a year. The quality of these ideas is decent as they are peer rated. If a member presents shoddy ideas, he or she is likely to lose membership privileges. Every week the best idea ( judged by VIC management) gets $5,000. The primary benefit of membership is the ability to access ideas in real time. However, as a guest, you can access the same content with a 2-month delay. It is very much worth looking through VIC for distressed situations. Start with the highest rated ideas and work downward from there. 6. Last, but certainly not least, please read The Little Book That Beats the Market by Joel Greenblatt. After reading the book, visit www.magicformulainvesting.com.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 65 | Location 691-725 | Added on Friday, March 8, 2024 8:44:42 PM
+
+How do we get a list of distressed businesses or industries? There are many sources, but here are six to begin with:  1. If you read the business headlines on a daily basis, you’ll find plenty of stories about publicly traded businesses. Many of these news clips reflect negative news about a certain business or industry. For example, Tyco’s stock collapsed when the Dennis Kozlowski scandal was front and center. Martha Stewart’s prison sentence clobbered that stock. More recently, Mr. Spitzer’s adventures with H & R Block have led to significant declines in its stock price. These were all headline stories. 2. Value Line publishes a weekly summary of the stocks that have lost the most value in the preceding 13 weeks. It is another terrific indicator of distress. This list of 40 stocks routinely shows price drops of 20 percent to 70 percent over that period. The ones with the largest drops are likely the most distressed. It also has a summary every week of the stocks with the lowest price-to-earnings ratios (P/Es), widest discount to book value, highest dividend yield, and so on. Not all these businesses are distressed, but if a business is trading at a P/E of 3, it is worth a closer look. 3. There is a publication called Portfolio Reports (www .portfolioreports.com) that is published monthly. It lists the 10 most recent stock purchases by 80 of the top value managers. It gleans this information from the various filings that institutional investors are required by law to make. Portfolio Reports lists the buying patterns of such luminaries as Seth Klarman of Baupost, Lou Simpson of GEICO, Marty Whitman of Third Avenue, Peter Cundill of the Cundill Group, Bruce Sherman of Private Capital Management, and Warren Buffett. These managers aren’t 100 percent focused on distressed situations, but they are focused on value. Distressed situations are a subset of value investing, so some of their investments fall into the distressed category. 4. If you’d like to avoid the subscription price tag for Portfolio Reports, then much of that data can be gleaned by looking directly at the public filings (e.g., SEC Form 13-F) that institutional investors have to make. These can be accessed on the EDGAR system (http:// access.edgar-online.com). Alternatively, www.nasdaq .com provides much of the data in condensed form. To get to the data, on the Nasdaq.com main page enter any one ticker symbol of a holding you think one of the value investing stars holds. I know Marty Whitman of Third Avenue has owned Tejon Ranch (TRC) for many years, so enter TRC and click on “InfoQuotes,” then click on “Holdings/Insiders,” then click on “Total Number of Holders.” Now click on “Third Avenue Management,” and you get a listing of virtually everything Third Avenue owns in U.S. stocks. You can do a Google search to get the name of the one ticker you need. For example, if I enter “Longleaf 13F” into the Google search field, I get links to many of its holdings. I can use any one ticker on Nasdaq.com to get to virtually all its U.S. holdings. 5. Take a look at Value Investors Club (VIC; www. valueinvestorsclub.com). It is a wonderful web site started and managed by Joel Greenblatt of Gotham Capital. Greenblatt has perhaps the best audited record of any unleveraged investor on the planet over the past 20 years—a compounded annualized return of 40 percent. We delve more into Greenblatt and his Dhandho approach later in the book. Value Investors Club has about 250 members—each of whom had to get approved for membership by presenting a good investment idea. These members are required to post at least two ideas a year. The quality of these ideas is decent as they are peer rated. If a member presents shoddy ideas, he or she is likely to lose membership privileges. Every week the best idea ( judged by VIC management) gets $5,000. The primary benefit of membership is the ability to access ideas in real time. However, as a guest, you can access the same content with a 2-month delay. It is very much worth looking through VIC for distressed situations. Start with the highest rated ideas and work downward from there. 6. Last, but certainly not least, please read The Little Book That Beats the Market by Joel Greenblatt. After reading the book, visit www.magicformulainvesting.com. Like Portfolio Reports or VIC, not all the stocks on the Magic Formula web site are distressed, but a meaningful number are. We delve further into the Magic Formula later. Between these sources, there are now a plethora of candidate distressed businesses to examine. How can we ever get our arms around all of them? Well, we don’t. We begin by eliminating all businesses that are either not simple businesses or fall squarely outside our circle of competence. What’s left is a very small handful of simple, well-understood businesses under distress. We are now ready to apply the rest of the Dhandho framework to this select group.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 71 | Location 754-755 | Added on Friday, March 8, 2024 8:45:49 PM
+
+Good businesses with good moats, like our barber, generate high returns on invested capital. The balance sheet tells us the amount of capital deployed in the business. The income and cash flow statements tell us how much they are earning off that capital.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 73 | Location 784-787 | Added on Saturday, March 9, 2024 7:33:44 AM
+
+Kelly calculated 71
+that the optimal fraction of your bankroll to bet on a favorable bet is:
+Edge/odds = Fraction of your bankroll you should bet each time  There is a wonderful book written by William Poundstone entitled Fortune’s Formula1 that is well worth reading. Poundstone describes the Kelly Formula beautifully.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 74 | Location 787-791 | Added on Saturday, March 9, 2024 7:33:52 AM
+
+assume you’re offered a coin toss where heads means you get $2 and tails costs you $1. How much of your bankroll should you bet if you’re offered these odds? According to the Kelly Formula, the edge is $0.50 [(0.5 × $2) + (0.5 ×−$1)]. The odds are what you win, if you win, or $2. So the Kelly Formula suggests you bet 25 percent ($0.50/$2.00) each time. For the first example, the edge is $17.45 [(0.8 × $21) + (0.1 × $7.50) + (0.1 ×−$1)] and the odds are the maximum we can win or $21. It’s $17.45/$21 or about 83 percent of your $10,000 bankroll or $8,300.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 75 | Location 807-808 | Added on Saturday, March 9, 2024 7:41:40 AM
+
+The wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple.3
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 78 | Location 839-839 | Added on Saturday, March 9, 2024 7:46:42 AM
+
+In investing, there is no such thing as a sure bet. Even the most blue-chip business on the planet has
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 78 | Location 839-840 | Added on Saturday, March 9, 2024 7:46:47 AM
+
+investing, there is no such thing as a sure bet. Even the most blue-chip business on the planet has a probability of not being in business tomorrow.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 78 | Location 843-847 | Added on Saturday, March 9, 2024 7:49:02 AM
+
+Let’s assume that you have adopted the Dhandho framework and have found an existing publicly traded company with a simple business model. Further, it happens to be a business under temporary distress, and this has led to a collapse in its stock price. The best part—it’s a good business with a durable moat. The business is squarely within your circle of competence, and you’ve figured out its intrinsic value today and two to three years out. You’ve found that the current stock price is less than half of the expected intrinsic value in two to three years.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 122 | Location 1316-1318 | Added on Saturday, March 9, 2024 8:42:10 AM
+
+One of the lists I scan periodically is Value Line’s weekly listing of stocks with the highest dividend yields. Usually, there are, at most, a handful of businesses sporting yields of 10 percent to 12 percent. A high dividend yield is sometimes indicative of a stock being undervalued. So, like low P/E or 52-week low lists, it’s a worthwhile screen.
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 147 | Location 1583-1588 | Added on Sunday, March 10, 2024 2:36:55 PM
+
+This is by no means a summary, but here are seven questions that an investor ought to be thinking about before entering any stock market chakravyuh: 1. Is it a business I understand very well—squarely within my circle of competence?
+2. Do I know the intrinsic value of the business today and, with a high degree of confidence, how it is likely to change over the next few years?
+3. Is the business priced at a large discount to its intrinsic value today and in two to three years? Over 50 percent?
+4. Would I be willing to invest a large part of my net worth into this business?
+5. Is the downside minimal?
+6. Does the business have a moat?
+7. Is it run by able and honest managers?
+==========
+[Mohnish_Pabrai]_The_Dhandho_Investor_The_Low_-_R  
+- Your Highlight on page 150 | Location 1618-1620 | Added on Sunday, March 10, 2024 5:24:50 PM
+
+A critical rule of chakravyuh traversal is that any stock that you buy cannot be sold at a loss within two to three years of buying it unless you can say with a high degree of certainty that current intrinsic value is less than the current price the market is offering.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4060-4061 | Added on Friday, March 15, 2024 11:46:03 AM
+
+During periods when mutual funds are popular, investing in the companies that sell the funds is likely to be more rewarding than investing in their products.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4151-4158 | Added on Wednesday, March 20, 2024 6:35:52 PM
+
+A restaurant chain, like a retailer, has 15–20 years of fast growth ahead of it as it expands. This is supposed to be a cutthroat business, but the fledgling restaurant company is protected from competition in a way that an electronics company or a shoe company is not. If there’s a new fish-and-chips chain in California and a better one in New York, what’s the impact of the New York chain on the California chain? Zero. It takes a long time for a restaurant company to work its way across the country, and meanwhile there’s no competition from abroad. Denny’s or Pizza Hut never has to worry about low-cost Korean imports. What continues to separate the triumphs from the flops among the restaurant chains is capable management, adequate financing, and a methodical approach to expansion. Slow but steady may not win the Indianapolis 500, but it wins this kind of race.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4200-4201 | Added on Wednesday, March 20, 2024 10:51:07 PM
+
+THE SIX-MONTH CHECKUP A healthy portfolio requires a regular checkup—perhaps every six months or so.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4205-4210 | Added on Wednesday, March 20, 2024 10:51:50 PM
+
+The six-month checkup is not simply a matter of looking up the stock price in the newspaper, an exercise that often passes for Wall Street research. As a stockpicker, you can’t assume anything. You’ve got to follow the stories. You are trying to get answers to two basic questions: (1) is the stock still attractively priced relative to earnings, and (2) what is happening in the company to make the earnings go up? Here you can reach one of three conclusions: (1) the story has gotten better, in which case you might want to increase your investment, (2) the story has gotten worse, in which case you can decrease your investment, or (3) the story’s unchanged, in which case you can either stick with your investment or put the money into another company with more exciting prospects.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4480-4482 | Added on Wednesday, March 20, 2024 11:15:41 PM
+
+Owning stocks is like having children—don’t get involved with more than you can handle. The part-time stockpicker probably has time to follow 8–12 companies, and to buy and sell shares as conditions warrant. There don’t have to be more than 5 companies in the portfolio at any one time.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4483-4486 | Added on Wednesday, March 20, 2024 11:16:09 PM
+
+Never invest in a company without understanding its finances. The biggest losses in stocks come from companies with poor balance sheets. Always look at the balance sheet to see if a company is solvent before you risk your money on it. • Avoid hot stocks in hot industries. Great companies in cold, nongrowth industries are consistent big winners.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4486-4486 | Added on Wednesday, March 20, 2024 11:16:19 PM
+
+With small companies, you’re better off to wait until they turn a profit before you invest.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4498-4499 | Added on Wednesday, March 20, 2024 11:17:40 PM
+
+Nobody can predict interest rates, the future direction of the economy, or the stock market. Dismiss all such forecasts and concentrate on what’s actually happening to the companies in which you’ve invested.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4502-4503 | Added on Wednesday, March 20, 2024 11:18:03 PM
+
+If you don’t study any companies, you have the same success buying stocks as you do in a poker game if you bet without looking at your cards.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4505-4506 | Added on Wednesday, March 20, 2024 11:18:20 PM
+
+If you have the stomach for stocks, but neither the time nor the inclination to do the homework, invest in equity mutual funds. Here, it’s a good idea to diversify.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4505-4509 | Added on Wednesday, March 20, 2024 11:18:46 PM
+
+If you have the stomach for stocks, but neither the time nor the inclination to do the homework, invest in equity mutual funds. Here, it’s a good idea to diversify. You should own a few different kinds of funds, with managers who pursue different styles of investing: growth, value, small companies, large companies, etc. Investing in six of the same kind of fund is not diversification. The capital-gains tax penalizes investors who do too much switching from one mutual fund to another. If you’ve invested in one fund or several funds that have done well, don’t abandon them capriciously. Stick with them.
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4527-4530 | Added on Wednesday, March 20, 2024 11:20:46 PM
+
+What usually happens to an overpriced blue-chip growth stock is that the stock price will fall or move sideways for a couple of years as the corporate earnings continue to grow as usual, and eventually the price and the earnings will come back into balance. When that occurs, the price line and the earnings line will converge on the chart, as they did for Abbott Labs in late 1993. (See the illustration on page
+==========
+Beating the Street - PDFDrive.c - Peter Lynch (Peter Lynch)
+- Your Highlight on Location 4576-4578 | Added on Wednesday, March 20, 2024 11:25:28 PM
+
+THE 24-MONTH CHECKUP To the six-month checkup of the Lynch portfolio that appears on pages 284–304, we can now add the 24-month checkup. With so much attention given to the ups and downs of stock prices, it’s easy to forget that owning a stock is owning a piece of a company.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 26 | Location 356-362 | Added on Sunday, March 31, 2024 6:27:48 PM
+
+This is the script I’ve seen work best: Hey [first name] I’m reading this book Million Dollar Weekend and they told me I need to get $1 from someone. You’re the first person I thought of, and it would mean a lot to have your support. Can you send me $1 right now? [your name]
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 29 | Location 390-394 | Added on Sunday, March 31, 2024 6:30:48 PM
+
+Any analysis ahead of action is purely speculation. You really do not understand something until you’ve done it. Rather than trying to plan your way into the confidence to act, just start acting. So how do you instill this habit if it doesn’t come naturally? Use the motto NOW, Not How.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 29 | Location 390-396 | Added on Sunday, March 31, 2024 6:31:10 PM
+
+Any analysis ahead of action is purely speculation. You really do not understand something until you’ve done it. Rather than trying to plan your way into the confidence to act, just start acting. So how do you instill this habit if it doesn’t come naturally? Use the motto NOW, Not How. PRO TIP: Next time you are overthinking and not taking action, tell yourself to prioritize taking action NOW and don’t worry about the HOW. After you do this ONCE, you quickly get momentum and it becomes easier and more natural.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 30 | Location 409-415 | Added on Sunday, March 31, 2024 6:33:12 PM
+
+I’m even going to provide a script, to cut off your inner skeptic. This won’t even take you two minutes. But it will create your first spark. And your second and third . . . So type this up in email—no, better yet, because it’s faster, use text—and send it to one of your friends. NOW! Hey [first name], I’m trying to come up with some business ideas right now. You know me well, so I was wondering what kind of business you think I’d be good at? [your name] Don’t be afraid to act. Be afraid of living a life that seems more like a résumé than an adventure.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 34 | Location 479-481 | Added on Friday, April 5, 2024 7:24:16 AM
+
+“Love rejections! Collect them like treasure! Set rejection goals. I shoot for a hundred rejections each week, because if you work that hard to get so many noes, my little Noah’le, in them you will find a few yeses, too.” Maybe that’s why he named me NO-ah, to remind me of this daily to keep going.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 35 | Location 484-484 | Added on Friday, April 5, 2024 7:25:10 AM
+
+the upside of asking is unlimited and the downside is minimal.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 35 | Location 484-486 | Added on Friday, April 5, 2024 7:25:27 AM
+
+upside of asking is unlimited and the downside is minimal. And he was right! “What’s the worst that can happen?” he’d say whenever I cringed at someone turning him down. “So they said no. Who cares! And the upside of making sales is unlimited.”
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 35 | Location 488-489 | Added on Friday, April 5, 2024 7:26:09 AM
+
+Case in point: Kyle MacDonald turned a red paper clip into a HOUSE with a series of just fourteen asks!
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 36 | Location 497-500 | Added on Friday, April 5, 2024 7:27:48 AM
+
+That skill—having the chutzpah to ask for what you want, despite the fear—is the entrepreneur’s ultimate and most necessary quality. The thing is, most people don’t ask for what they want. They wish for it, they make “suggestions” and drop hints, they hope. But the simple fact of business is that only by asking do you receive what you want. No ASK? No GET. That applies to every part of life. Seriously, every part.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 37 | Location 514-517 | Added on Friday, April 5, 2024 7:30:53 AM
+
+Embracing risk, fear, and rejection gives you the power to transform your life. It’s just that simple. I’ve helped 10,000+ people via my Monthly1K business course, and the number one thing that held people back from business success was NOT a lack of strategy . . . but Ask Avoidance. Getting money is not a matter of literally getting it. It’s a matter of RECEIVING IT, which can happen only after one asks for it.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 38 | Location 528-533 | Added on Friday, April 5, 2024 7:33:20 AM
+
+For one thing—and I do this often—I remind myself I’m going to die eventually and none of this really matters. Seriously. And on top of that, would any of these people come to my funeral? No! Which is a pretty effective way to lessen the impact their rejection has on my emotions. `Then I remind myself of Rejection Goals: “This is going to suck. Let me aim to get at least twenty-five rejections.” That alone helps me accept that I will get rejected and turn it more into a game versus a blow to my self-worth. I’ve trained myself to associate anything hard with growth, playing the same little reframing trick my father used on rejection.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 39 | Location 543-551 | Added on Friday, April 5, 2024 7:35:30 AM
+
+Always Be Asking Who is the type of person that starts a million-dollar business? The type of person who asks for what they want. If you want a new job at a new company, you have to ASK for it. If you want more money from your boss, you have to ASK for the raise. If you are selling something, you have to ASK the customer to buy it. Even at home, if you want your spouse or kids to treat you better, you have to ASK them.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 40 | Location 553-555 | Added on Friday, April 5, 2024 7:36:00 AM
+
+PRO TIP: Be persistent. I want you to believe that almost every no you get can eventually become a yes. Persistence will reveal that most noes are actually a “not now.”
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 41 | Location 561-562 | Added on Friday, April 5, 2024 7:36:43 AM
+
+PRO TIP: Follow Up! Follow Up! Follow Up! Studies show that if you initially get a no, your follow-up ask is TWICE as likely to get a yes.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 41 | Location 565-569 | Added on Friday, April 5, 2024 7:37:22 AM
+
+PRO TIP: Selling is helping. If you believe your product or service improves the lives of your customers, sales is just education. You’re helping people out. Reframing selling/asking as helping makes it exciting to offer your consulting or window-washing services or provide someone with delicious cookies. Once you accept that truth, asking becomes loads easier and feels much more like a communal gift than a selfish desire.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 43 | Location 592-598 | Added on Friday, April 5, 2024 7:40:46 AM
+
+The Coffee Challenge. Go to any coffee shop or anyplace in person. Make a simple purchase and ask for 10 percent off. Don’t say anything else. The whole point is for you to feel uncomfortable. Commit to doing this today. Every single person who completes this challenge always posts how beneficial it is for their lives. I want that to be the same for you. You’d think asking for a discount on your cup of coffee is no big deal, but for those that have done it and gone on to discuss its surprising power in countless podcast hours and blog posts and Twitter threads, its impact is undeniable.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 49 | Location 683-686 | Added on Saturday, April 6, 2024 7:22:26 AM
+
+Customers Want Solutions, Not Ideas Customers don’t care about your ideas; they care about whether you can solve their problems. And you should not build your idea into a business if you don’t know with 100 percent certainty that it’s a solution your customers will pay for.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 50 | Location 697-702 | Added on Saturday, April 6, 2024 7:24:01 AM
+
+If you do it this way, you’re assured of nailing the three Ws of business right from the start: Who you are selling to What problem you’re solving Where they are
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 52 | Location 720-723 | Added on Saturday, April 6, 2024 7:26:22 AM
+
+PRO TIP: Look for something working in one category and bring it to another. One of the largest drivers of AppSumo’s email list was giveaways. We realized this only after seeing a giveaway in a women’s fashion online site and trying it out ourselves. Sign up for and observe companies outside of your target market for inspiration.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 56 | Location 773-775 | Added on Saturday, April 6, 2024 7:32:55 AM
+
+PRO TIP: Focus on Zero to $1. Get that first dollar. That will create your momentum and build your belief in what you’re working on. Every company I started began with just one customer. Scaling comes later.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 57 | Location 787-789 | Added on Saturday, April 6, 2024 7:34:15 AM
+
+Old school: You focus on business model planning and obsessing about the product at this stage. New school: You’re going to focus on the conversation with the customers, a dynamic back-and-forth that will help you iterate your product in terms of what the customer wants before you make or spend a thing.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 61 | Location 839-844 | Added on Tuesday, April 9, 2024 7:18:52 AM
+
+CHALLENGE Top three groups. Let’s write out your top three groups to target. Who do you have easy access to that you’d be EXCITED to help? This can be your neighbors, colleagues, religious friends, golf buddies, cooking friends, etc.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 62 | Location 856-861 | Added on Tuesday, April 9, 2024 7:27:44 AM
+
+What to make for breakfast that’s quick, healthy, and full of caffeine How to find a reliable house cleaner Where to go to dinner with my partner How to find my next therapist What kind of investment to make with some extra cash I received
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 62 | Location 863-864 | Added on Tuesday, April 9, 2024 7:28:10 AM
+
+The crucial first step toward entrepreneurship is to study your own unhappiness and to think of solutions (aka business opportunities) for you to sell.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 64 | Location 886-899 | Added on Tuesday, April 9, 2024 7:30:39 AM
+
+Here’s what the process of coming up with a million-dollar business idea does NOT look like: Getting on TikTok or YouTube and mindlessly copying whatever the influencers say is working for them Getting struck with the perfect vision for a genius new product Meditating, following your passion, and brainstorming Following any other woo-woo method that promises inspiration in a box Here’s what the actual process looks like: What’s the most painful (aka valuable) problem you can solve for people . . . That you also have passion for and/or unique expertise in . . . For the largest niche possible that you belong to and understand . . . Simple enough, but takes some light and fun brainwork. Remember to focus on your Zone of Influence here (your existing community):
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 65 | Location 901-901 | Added on Tuesday, April 9, 2024 7:31:32 AM
+
+You can access all the idea challenges
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 65 | Location 901-903 | Added on Tuesday, April 9, 2024 7:31:36 AM
+
+You can access all the idea challenges and more examples at MillionDollarWeekend.com
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 65 | Location 904-905 | Added on Tuesday, April 9, 2024 7:32:39 AM
+
+1. Solve Your Own Problems
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 65 | Location 913-919 | Added on Tuesday, April 9, 2024 7:34:50 AM
+
+Still stuck? Here are four questions to get you going: What is one thing this morning that irritated me? What is one thing on my to-do list that’s been there over a week? What is one thing that I regularly fail to do well? What is one thing I wanted to buy recently only to find out that no one made it? I make it a habit to always keep a notebook close by and jot down things that bother me.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 67 | Location 934-937 | Added on Tuesday, April 9, 2024 7:37:09 AM
+
+CHALLENGE Solve your own problems. Use the questions to find three ideas. Write those down in your MDW Journal.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 67 | Location 938-938 | Added on Tuesday, April 9, 2024 7:51:18 AM
+
+Bestsellers Are Your Best Friends
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 67 | Location 938-941 | Added on Tuesday, April 9, 2024 7:51:40 AM
+
+What products are already selling a crap-ton? iPads, iPhones, etc. Basically, any product you’d find on Amazon’s Bestseller list would work here. How can you accessorize the product (for example, stickers for an iPhone) or sell a service to those people (teaching someone how to use an iPhone)?
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 67 | Location 937-946 | Added on Tuesday, April 9, 2024 7:52:15 AM
+
+2. Bestsellers Are Your Best Friends What products are already selling a crap-ton? iPads, iPhones, etc. Basically, any product you’d find on Amazon’s Bestseller list would work here. How can you accessorize the product (for example, stickers for an iPhone) or sell a service to those people (teaching someone how to use an iPhone)? It’s easier to sell to a large group of people who’ve already spent money on a product or service. Some ideas could be: Customizing Nike shoes. Video game tutorial for an Xbox game. Teaching computer novices how to use a MacBook.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 67 | Location 946-949 | Added on Tuesday, April 9, 2024 7:52:20 AM
+
+CHALLENGE Bestsellers are your best friends. Write down two accessorizing ideas in your MDW Journal.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 68 | Location 953-955 | Added on Sunday, April 14, 2024 3:10:55 PM
+
+3. Marketplaces One of my favorite ways to find ideas is by studying the marketplaces where people are TRYING to spend money. Your potential customers are everywhere already asking in public for solutions
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 69 | Location 961-965 | Added on Sunday, April 14, 2024 3:12:00 PM
+
+CHALLENGE Marketplaces. Visit a marketplace like Etsy, Facebook Marketplace, Craigslist, or eBay and write at least one idea for a product or service in your MDW Journal.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 71 | Location 978-981 | Added on Sunday, April 14, 2024 3:13:14 PM
+
+CHALLENGE Search engine queries. Use search engine questions and Reddit forums to find two more ideas. Write them in your MDW Journal.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 76 | Location 1047-1048 | Added on Sunday, April 14, 2024 3:22:28 PM
+
+What I’m saying here is that your job is not to create demand for something that seems exciting, it’s to find existing demand and satisfy it. You can have the
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 78 | Location 1066-1070 | Added on Sunday, April 14, 2024 3:24:39 PM
+
+There are two key questions to answer to make sure it’s a million-dollar opportunity: Is the overall market dying, flat, or growing? You want flat or ideally growing! Is this a million-dollar opportunity? To figure that out, we have to know the number of potential customers and the price of your product.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 78 | Location 1075-1084 | Added on Sunday, April 14, 2024 3:25:39 PM
+
+Is the market growing or dying? Search Google Trends for the terms “beard” and “beard grooming” and compare their search popularity to similar terms (for example, “haircuts,” “razors”) and how that’s changed over the last few months and years. With Google Trends you are just looking to see how the graphs are trending – ideally up and to the right. A Google Trends search to show interest in different beard terms How many potential customers are there? I’d highly recommend using Facebook Ads to research your market size. Facebook is pretty much the entire world, and what’s phenomenal is that they actually let you type in the keyword of whatever business category you’re thinking about and see the approximate audience size. You can also use the Facebook Ads Library to see every single active ad running on Facebook for your keyword and location, which is super helpful for uncovering competitors and getting ideas for your own marketing efforts.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 80 | Location 1084-1085 | Added on Sunday, April 14, 2024 3:26:17 PM
+
+To see videos of me doing this analysis, go to Million DollarWeekend.com.
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 81 | Location 1097-1108 | Added on Sunday, April 14, 2024 3:27:51 PM
+
+Here are the major things you’re looking for: Pick a price point you think will be ideal for your customer. Multiply that by the number of ideal customers. Does that equal at least a million dollars? Yes or no? Simple! Now let’s evaluate that on our beard oil idea: Google Trends: Flat with some growth Size of market: 2,500,000 people Cost of your product: $50 Total Value: $125,000,000 Million-dollar idea?
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 82 | Location 1111-1117 | Added on Sunday, April 14, 2024 3:28:10 PM
+
+Setting up people’s home offices idea Google Trends: Significantly up Size of market: 50,000 people Cost of your product: $500 Total Value: $25,000,000 Million-dollar idea? YES!
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 83 | Location 1156-1157 | Added on Sunday, April 14, 2024 3:29:21 PM
+
+Step 3. The One-Minute Business Model Many people have asked me to review their business plan. I always give the same advice: “Your plan is to make money!”
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 86 | Location 1212-1215 | Added on Sunday, April 14, 2024 3:37:10 PM
+
+PRO TIP: When you’re launching a business, always ask yourself: is this going to be a one-off purchase, something customers buy here and there when they want to consume it, or can you make it a monthly recurring sale?
+==========
+Noah Kagan - Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (2024) - libgen.li (Noah Kagan)
+- Your Highlight on page 87 | Location 1218-1219 | Added on Sunday, April 14, 2024 3:37:27 PM
+
+Step 4. Pivot and Evolve—Your Revenue Dials
+==========
+One up on wall street (Peter Lynch)
+- Your Highlight on Location 3821-3824 | Added on Tuesday, April 16, 2024 7:54:56 AM
+
+Electric utilities and telephone utilities are the major dividend-payers. In periods of slow growth they don’t need to build plants or expand their equipment, and the cash piles up. In periods of fast growth the dividends are lures to attract the enormous amounts of capital that plant construction requires.
+==========
+One up on wall street (Peter Lynch)
+- Your Highlight on Location 4118-4125 | Added on Wednesday, April 17, 2024 5:51:10 PM
+
+At the beginning of our exercise, Company A is selling for $20 a share (20 times earnings of $1), and by the end it sells for $123.80 (20 times earnings of $6.19). Company B starts out selling for $10 a share (10 times earnings of $1) and ends up selling for $26 (10 times earnings of $2.60). Even if the p/e ratio of Company A is reduced from 20 to 15 because investors don’t believe it can keep up its fast growth, the stock would still be selling for $92.85 at the end of the exercise. Either way, you’d rather own Company A than Company B. If we had given Company A a 25 percent growth rate, tenth-year earnings would have been $9.31 per share: even with a conservative 15 p/e that’s a stock price of $139.
+==========
